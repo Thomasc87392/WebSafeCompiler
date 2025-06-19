@@ -5,3 +5,4 @@
 .venv/
 *.tmp
 coverage/
+tmp/
