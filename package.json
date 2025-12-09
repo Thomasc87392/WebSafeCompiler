@@ -1,6 +1,6 @@
 {
   "name": "websafecompiler",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "A powerfull websites compiler/obfuscator for optimization or intellectual property protection purposes.",
   "main": "src/index.js",
   "scripts": {
